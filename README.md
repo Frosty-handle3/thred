@@ -7,7 +7,7 @@ Everything is stored on your phone (SQLite). Nothing is sent anywhere.
 ## Try it on your phone
 
 1. Install **Expo Go** from the App Store or Google Play.
-2. On a computer with Node 22+:
+2. On a computer with Node 24 (get the LTS installer from [nodejs.org](https://nodejs.org)):
    ```bash
    npm install
    npm start
